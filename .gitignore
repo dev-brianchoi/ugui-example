@@ -72,3 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 ugui-example/Library
 ugui-example/Temp
+ugui-example/Logs
